@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  dllmain.cpp
+  Gerando código
+  Previous IPDB not found, fall back to full compilation.
+  All 3 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finalizada a geração de código
+  WallHackHook.vcxproj -> C:\Users\igdas\source\repos\WallHackHook\Release\WallHackHook.dll
